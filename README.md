@@ -1,2 +1,2 @@
 # CokeBot
-[Coke bot [Autosaved].pptx](https://github.com/coderraa/CokeBot/files/5331879/Coke.bot.Autosaved.pptx)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57325166/95169101-f67ddb00-07cf-11eb-8057-2576533536e0.gif)

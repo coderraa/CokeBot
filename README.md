@@ -20,5 +20,3 @@ This is a **Coke Bot** integrated with telegram deployed on GCP with Dialogflow 
 
 
 
-
-
